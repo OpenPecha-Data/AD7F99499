@@ -1,0 +1,19 @@
+segment_sources:
+  ICF007F22:
+    type: origin_type
+    relation: translation
+    language: en
+  I47810315:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  40919d7d79194482b42f105448a59b96:
+    ICF007F22: bf61a264c61e4856be49036e755ca261
+    I47810315: 4c663cd854794020b619e86f69736d4d
+  753e27673d5c45e6b0eedac4356a49bb:
+    ICF007F22: 0f64e1c8a6ff49f0973eb0b7fe4c6a09
+    I47810315: 7f64af52439747c2b353f8f3271a8401
+  5ddfd1751ebd4b47814a49d30c4f9ec5:
+    ICF007F22: 5a4717ecd49c4f50b171f384194e02e8
+    I47810315: df0a52e74f424592a59526c92ccf61f5

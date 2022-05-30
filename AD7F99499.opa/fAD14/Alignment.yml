@@ -1,0 +1,58 @@
+segment_sources:
+  ICF007F22:
+    type: origin_type
+    relation: translation
+    language: en
+  ICEDBC96E:
+    type: origin_type
+    relation: translation
+    language: de
+  IA59B9AEF:
+    type: origin_type
+    relation: translation
+    language: es
+  IF441FF44:
+    type: origin_type
+    relation: translation
+    language: fr
+  I47810315:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b719d8e1f84240f59c0f2947fd86d107:
+    ICF007F22: 1ac907eb0b644d9a855555bf7504e39a
+    ICEDBC96E: 41ce566490454d599583582d312191f5
+    IA59B9AEF: f55324e13cae4c45b7a3491fd3fa06d3
+    IF441FF44: a818afa2c6174f04ac90d36f17ecfd39
+    I47810315: ece007e07e014fdcb2bba33ac2b14014
+  24507747862c475f89a59e55674a5bfd:
+    ICF007F22: f0d03e9cacbc4fabbf90122f5269570e
+    ICEDBC96E: 994adabc37aa425bab76788c1485cd5b
+    IA59B9AEF: 360042a7ceaa427c90586d0eb642d6e7
+    IF441FF44: a6d1dfd9dc0c4b838a8f574273a0734f
+    I47810315: e3d5af1abd8b4e62920246ba74f99e2f
+  7b3c0467c45d49a9bc64917990478d6e:
+    ICF007F22: 198f3a70100d402eade900257674d902
+    ICEDBC96E: 348e888cf1f2479f9735745a207eee44
+    IA59B9AEF: 99bfc9fd2f3d47bba1afeaa44d769a2d
+    IF441FF44: 02b65c51d0244566b43cc09ce5772105
+    I47810315: a51b1ba3259b414f9da6a6362163b169
+  d4ae66e2a08043f8947aec6a6403a74c:
+    ICF007F22: cefffd2e56e14d9eb2a8bc32d858aae3
+    ICEDBC96E: e0e249fe1c9b42419518b66dbec180d2
+    IA59B9AEF: f2776d3ae9874fcdbfc6d06848778bc3
+    IF441FF44: 86c11f715e6f46858907870791915194
+    I47810315: b5c04e0c438b466c87cb2fb43c7dfd81
+  77c6826454e04ae592fa9be0325a3e41:
+    ICF007F22: 1880a465c65043bc8e3a120fac5fa9ca
+    ICEDBC96E: 15c8ad3affcf4e15b3b2a06529525a64
+    IA59B9AEF: da329646193f46d9bd4271ae2dc66383
+    IF441FF44: 00d44b7a098b44c28785257d7285bd63
+    I47810315: 9f1469f514834862974fcec2e2e3c1d3
+  8c7fd4774fbd4bb8aa7909b6e18cdcbe:
+    ICF007F22: d9569f73a50e4609956a7095efb8a0dd
+    ICEDBC96E: 6c45b095666b4351a6398fe586e926d3
+    IA59B9AEF: 40e809d15cca4500af6ac6f5757ce82c
+    IF441FF44: 412e45f64d2e47d1b22a54b6cb863c47
+    I47810315: 5962aed8579e412f80e082dc13aa9493
